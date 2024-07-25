@@ -1,5 +1,6 @@
-![github-header-image](https://github.com/user-attachments/assets/0b7f7da8-665b-4b49-8abf-5c470bc708b4)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0b7f7da8-665b-4b49-8abf-5c470bc708b4" alt="github-header-image" />
+</p>
 <h1 align="center">Hi 👋, I'm Khushal Rajoria</h1>
 <h3 align="center">A passionate flutter and nodeJs developer doing full stack development from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushalrajoria&label=Profile%20views&color=0e75b6&style=flat" alt="khushalrajoria" /> </p>
