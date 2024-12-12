@@ -4,7 +4,7 @@
 <h3 align="center">A passionate flutter and nodeJs developer doing full stack development from India</h3>
 <img align="right" alt="Coding" width="300" height="300" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 
-- 🔭 I’m currently working for Matchpix pvt ltd
+- 🔭 I’m currently looking jobs
 
 - 🌱 I’m currently learning **nodeJs and flutter**
 
